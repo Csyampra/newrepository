@@ -1,0 +1,20 @@
+slot 0: System Board 2.3 GHz (System Board XVI B2)
+                Model Name:         FAS3250
+                Part Number:        111-01062
+                Revision:           B2
+                Serial Number:      9412602545
+                BIOS version:       5.3.0
+                Loader version:     3.6
+                Processors:         8
+                Processor ID:       0x1067a
+                Microcode Version:  0xa0b
+                Processor type:     Intel(R) Xeon(R) CPU           L5410  @ 2.33GHz
+                Memory Size:        20480 MB
+                Memory Attributes:  Bank Interleaving
+                                    Hoisting
+                                    Rank Interleaving
+                                    Chipkill ECC
+                NVMEM Size:         2400 MB of Main Memory Used
+                CMOS RAM Status:    OK
+                Controller:         A
+Service Processor           Status: Online
