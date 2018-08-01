@@ -1,0 +1,8 @@
+isi quota quotas modify --path=/ifs/lprc1/prod/uat/tax/mtj01u/uat-multij --type=directory --hard-threshold=15.62GB 
+
+
+/ifs/lprc1/prod/uat/tax/mtj01u/uat-multij
+
+
+isi quota quotas modify --path=/ifs/lprc1/prod/uat/tax/mtj01u/uat-multij --type=directory --advisory-threshold=11.75GB
+
